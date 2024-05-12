@@ -1,0 +1,16 @@
+{
+    "name": "josep/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph Dias",
+            "email": "79783899+JosephDebugger@users.noreply.github.com"
+        }
+    ],
+   
+    "require": {}
+}
