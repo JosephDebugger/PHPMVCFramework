@@ -35,6 +35,6 @@ class Router
         include_once __DIR__.'/../views/'.$view.'.php';
     }
     protected function layoutContent(){
-        include_once
+        include_once __DIR__.'/../views/contact.php';
     }
 }
