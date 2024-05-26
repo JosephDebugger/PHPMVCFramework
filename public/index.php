@@ -3,6 +3,10 @@
 /* PHP MVC FRAMEWORK */
 
 require_once __DIR__.'/../vendor/autoload.php';
+
+
+var_dump(dirname(__DIR__));
+
 use app\core\Application;
 
 
