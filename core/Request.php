@@ -1,5 +1,14 @@
 <?php
+
+/**
+ * Class Request
+ * 
+ * @author Joseph Dias <josephdias012@gmail.com>
+ * @package namespace app\core;
+ */
+
 namespace app\core;
+
 class Request
 {
     public function getPath()
